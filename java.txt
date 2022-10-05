@@ -1,6 +1,6 @@
 JAVA
 
-Tipos de datos primitivos
+Tipos de datos primitivos (prueba)
 
 -Enteros
  *Int: 4 bytes -2,147,483,648 a 2,147,483,647
