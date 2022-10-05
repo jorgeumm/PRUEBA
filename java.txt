@@ -1,0 +1,28 @@
+JAVA
+
+Tipos de datos primitivos
+
+-Enteros
+ *Int: 4 bytes -2,147,483,648 a 2,147,483,647
+ *Short: 2  -32,768 a 32,767
+ *Long: 8 bytes, sufijo L
+ *Byte: 1 byte -128 a 127
+-Coma flotante
+ *float: 4 bytes. Sufijo F. 6 a 7 cifras significativas
+ *Double: 8 bytes. 15 cifras decimilaes significativas
+-Char: para representar caracteres
+-Boolean: True o False
+
+variables: espacio en la memoria donde se almacena un valor que puede cambiar durante la ejecucion de un programa
+
+POO
+
+Propiedades
+Metodos
+
+Java variables y constantes
+
+variables pueden cambiar
+contantes no cambian
+
+
